@@ -1,0 +1,6 @@
+pear
+apple
+orrange
+watermelon
+banana
+dragonfruit
